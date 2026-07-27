@@ -1,5 +1,5 @@
 """
-Day 1: Data Ingestion
+Data Ingestion
 Loads all 10 raw CSV datasets, inspects them, validates AMFI codes,
 and writes a data quality summary to reports/.
 """

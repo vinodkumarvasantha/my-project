@@ -1,5 +1,5 @@
 """
-Day 1: Live NAV Fetch
+ Live NAV Fetch
 Fetches live NAV history from mfapi.in for key schemes and saves as raw CSV.
 """
 
