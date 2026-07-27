@@ -6,8 +6,8 @@ Funds with matching NAV history:    40 (100.0%)
 Funds missing from nav_history:     0
 Orphan codes in nav_history:        0
 
-NAV records per fund — min: 1150, 
-max: 1150, 
+NAV records per fund — min: 1150,
+max: 1150,
 mean: 1150
 
 Conclusion: All fund_master codes have corresponding NAV history — no gaps.
